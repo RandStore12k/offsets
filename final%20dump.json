@@ -256,7 +256,7 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0x1090"
+                "value": "0x1170"
             },
             {
                 "name": "m_nFallbackPaintKit",
